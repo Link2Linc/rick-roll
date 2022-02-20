@@ -1,7 +1,7 @@
 {
   "name": "microsoft-word",
   "productName": "Microsoft Word",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A word processing utility made and developed by Microsoft",
   "main": "src/index.js",
   "scripts": {
